@@ -56,7 +56,7 @@ def turn
      move(index)
      display_board
     else
-    
+    turn
     end
  end
 
