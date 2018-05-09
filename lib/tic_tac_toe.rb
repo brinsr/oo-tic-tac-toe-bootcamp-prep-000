@@ -98,7 +98,7 @@ def won?
    end
 
 def over?
- if turn_count(board)==1 then false 
+ if turn_count==1 then false 
    #elsif turn_count(board)==2 then true
  end
   
